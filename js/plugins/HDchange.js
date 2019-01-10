@@ -52,7 +52,7 @@
         switch(command){
 	case 'ChangeHD':
 	    Window_Base.prototype.standardFontSize = function() {
-		return 34
+		return 28
 	    };
 	    Graphics.width = 1920;
 	    Graphics.height =  1080;
